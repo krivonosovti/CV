@@ -2,7 +2,7 @@ Timofey Krivonosov
 
 Email: krivonosovTi@gmail.com
 
-Phone: +7 931 386 9080
+Phone: +7 (931) 386 90-80
 
 GitHub: https://github.com/krivonosovti
 
