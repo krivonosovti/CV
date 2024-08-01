@@ -6,9 +6,13 @@ Phone: +7 931 386 9080
 
 GitHub: https://github.com/krivonosovti
 
+
 Timofey Krivonosov
+
 Email: krivonosovTi@gmail.com
+
 Phone: +7 931 386 9080
+
 GitHub: https://github.com/krivonosovti
 
 =======================
