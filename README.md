@@ -15,7 +15,7 @@ Phone: +7 931 386 9080
 
 GitHub: https://github.com/krivonosovti
 
-=======================
+
 Professional Experience
 =======================
 
@@ -46,7 +46,7 @@ September 2022 – Present
   - Proficient in version control systems using Git, including branching, merging, and repository management.
   - Strong understanding and experience with SQL for effective data management and retrieval.
 
-=========
+
 Education
 =========
 
@@ -54,7 +54,7 @@ Saint Petersburg State University
 Major: Applied Mathematics, Computer Science, and AI
 Third Year Student (2022 – Present)
 
-=======
+
 Skills
 =======
 
@@ -66,7 +66,7 @@ Skills
 - Analytics: A/B Testing, Excel, Stability Theory in Dynamic Systems, Lyapunov Stability
 - Version Control: Git
 
-==================
+
 Personal Qualities
 ==================
 
@@ -105,7 +105,7 @@ September 2022 – Present
   - Proficient in version control systems using Git, including branching, merging, and repository management.
   - Strong understanding and experience with SQL for effective data management and retrieval.
 
-=========
+
 Education
 =========
 
@@ -113,7 +113,7 @@ Saint Petersburg State University
 Major: Applied Mathematics, Computer Science, and AI
 Third Year Student (2022 – Present)
 
-======
+
 Skills
 ======
 
@@ -125,7 +125,7 @@ Skills
 - Analytics: A/B Testing, Excel, Stability Theory in Dynamic Systems, Lyapunov Stability
 - Version Control: Git
 
-==================
+
 Personal Qualities
 ==================
 
