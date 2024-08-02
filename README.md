@@ -114,7 +114,7 @@ Skills
 - Development: RESTful APIs, Spring Boot
 - Analytics: A/B Testing, Excel, Stability Theory in Dynamic Systems, Lyapunov Stability
 - Version Control: Git
-
+- Layout: LaTEX, bibTEX, html.
 
 Personal Qualities
 ==================
@@ -122,4 +122,5 @@ Personal Qualities
 - Diligent and persistent in achieving goals.
 - Quick learner with enthusiasm for mastering new technologies.
 - Strong communication skills and team collaboration.
-
+- Driver of category "B" with a personal car.
+- Master of sports in karate.
