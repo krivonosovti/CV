@@ -112,7 +112,9 @@ Skills
 - DevOps Tools: Docker, Gradle
 - System Administration: Debian, VLAN
 - Development: RESTful APIs, Spring Boot
-- Analytics: A/B Testing, Excel, Stability Theory in Dynamic Systems, Lyapunov Stability
+- Analytics: A/B Testing, Excel, Stability Theory in Dynamic Systems, Lyapunov Stability.
+- Machine Learning Libraries: NumPy, PyTorch, TensorFlow, Matplotlib, Pandas.
+  - Not an expert yet, but I have a solid understanding and am continually improving my skills in these libraries.
 - Version Control: Git
 - Layout: LaTEX, bibTEX, html.
 
