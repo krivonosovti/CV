@@ -27,7 +27,6 @@ September 2022 – Present
 
 - Data Analysis and Testing:
   - Applied Python and C++ for data analytics tasks and conducted A/B testing to optimize processes.
-  - Developed and trained LSTM neural networks for forecasting and time series analysis.
   - Explored stability conditions in dynamic systems, control theory, and mathematical statistics.
 
 - Competitions and Hackathons:
