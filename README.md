@@ -3,8 +3,7 @@
 ### Java-разработчик
 
 [krivonosovTi@gmail.com](mailto:krivonosovTi@gmail.com)  
-Телефон: 8 (931) 386 9080  
-[GitHub](https://github.com/krivonosovti)
+Телефон: 8 (931) 386 9080
 
 ---
 
