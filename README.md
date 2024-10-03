@@ -1,128 +1,90 @@
-Timofey Krivonosov
+# Кривоносов Тимофей Игоревич
 
-Email: krivonosovTi@gmail.com
+### Java-разработчик
 
-Phone: +7 (931) 386 90-80
+[krivonosovTi@gmail.com](mailto:krivonosovTi@gmail.com)  
+Телефон: 8 (931) 386 9080  
+[GitHub](https://github.com/krivonosovti)
 
-GitHub: https://github.com/krivonosovti
+---
 
+## Профессиональный опыт
 
-Professional Experience
-=======================
+**ООО «Медика**  
+*Специалист IT-отдела*  
+Сентябрь 2022 – по настоящее время  
 
-Medica LLC
-IT Specialist
-September 2022 – Present
+- **Администрирование и поддержка:**
+  - Управление и администрирование автоматизированных рабочих мест (АРМ), включая диагностику и устранение проблем пользователей.
+  - Настройка и управление VLAN для обеспечения безопасности и сегментации сети.
+  - Администрирование серверов, включая мониторинг, обновление и оптимизацию производительности.
 
-- Systems Administration and Support:
-  - Managed and administered automated workstations (ARM), providing user support and troubleshooting.
-  - Configured and managed VLANs to ensure network security and segmentation.
-  - Administered servers, including performance monitoring, updates, and optimization.
+- **Разработка и программирование:**
+  - Разработка REST-API приложений с использованием Java Spring Boot и PostgreSQL, обеспечивая надежность и масштабируемость решений.
+  - Использование фреймворков таких как Flyway или Liquibase для управления схемой базы данных и версионирования базы данных.
+  - Разработка адаптивного пользовательского интерфейса на Vue.js.
+  - Развертывание серверов на базе Debian с использованием Docker, Gradle и Maven для упрощения и автоматизации процессов разработки.
 
-- Development and Programming:
-  - Developed RESTful API applications using Java Spring Boot and PostgreSQL, ensuring robust and scalable solutions.
-  - Utilized database migration frameworks such as Flyway or Liquibase for seamless data transitions.
-  - Created interactive and responsive user interfaces with Vue.js.
-  - Deployed servers on Debian using Docker and Gradle to streamline and automate development processes.
+- **Инструменты и технологии:**
+  - Отличное знание систем контроля версий Git, включая ветвление, слияние и управление репозиториями.
+  - Понимание и опыт работы с SQL для эффективного управления и извлечения данных.
 
-- Data Analysis and Testing:
-  - Applied Python and C++ for data analytics tasks and conducted A/B testing to optimize processes.
-  - Explored stability conditions in dynamic systems, control theory, and mathematical statistics.
+---
 
-- Competitions and Hackathons:
-  - Actively participated in coding contests hosted by Yandex, Tinkoff, and other leading companies, showcasing problem-solving skills.
+## Навыки
 
-- Tools and Technologies:
-  - Proficient in version control systems using Git, including branching, merging, and repository management.
-  - Strong understanding and experience with SQL for effective data management and retrieval.
+- **Программирование:** Java, Python, C++, JavaScript (Vue.js).
+- **Фреймворки:** Spring Boot, Hibernate.
+- **Базы данных:** PostgreSQL, MySQL.
+- **Инструменты DevOps:** Docker, Gradle, Maven.
+- **Администрирование систем:** Linux, VLAN.
+- **Аналитика:** A/B тестирование, теория устойчивости динамических систем, устойчивость по Ляпунову.
 
+---
 
-Education
-=========
+## Иностранные языки
 
-Saint Petersburg State University
-Major: Applied Mathematics, Computer Science, and AI
-Third Year Student (2022 – Present)
+**Английский язык** — *Intermediate*.  
+Свободное чтение и понимание профессиональной литературы, уверенное устное и письменное общение в рабочих ситуациях.
 
+---
 
-Skills
-=======
+## Образование
 
-- Programming: Java, Python, C++, JavaScript (Vue.js)
-- Databases: PostgreSQL, SQL
-- DevOps Tools: Docker, Gradle
-- System Administration: Debian, VLAN
-- Development: RESTful APIs, Spring Boot
-- Analytics: A/B Testing, Excel, Stability Theory in Dynamic Systems, Lyapunov Stability
-- Version Control: Git
+**Санкт-Петербургский государственный университет**  
+*Специальность: Прикладная математика, информатика и ИИ*  
+Третий курс (Годы обучения: 2022 – 2026)
 
+- **Опыт полученный в рамках курсовых работ:**
+  - Применял Python и C++ для задач аналитики данных и проведения A/B тестирования для оптимизации процессов с использованием библиотек: NumPy, PyTorch, TensorFlow, Matplotlib, Pandas.
+  - Практиковался в разработке и обучении нейронных сетей для задач прогнозирования и анализа временных рядов.
+  - Занимался поиском состояний устойчивости в динамических системах, а также теорией управления. Получил хорошее знание математической статистики. 
 
-Personal Qualities
-==================
+- **Участие в конкурсах и хакатонах:**
+  - Активное участие в конкурсах программирования от Яндекс, МТС, ВШЭ/ПСБ, Тинькофф и других ведущих компаний, демонстрируя навыки решения комплексных задач.
 
-- Diligent and persistent in achieving goals.
-- Quick learner with enthusiasm for mastering new technologies.
-- Strong communication skills and team collaboration.
+---
 
+## Проекты
 
-Professional Experience
-=======================
+- **Hangman Game (Java):** Разработка консольной игры на Java с использованием объектно-ориентированного подхода и MVC-архитектуры. Использовал логгирование, обработку исключений и JUnit-тестирование.  
+  GitHub: [Hangman](https://github.com/krivonosovti/hangman/tree/main/backend_academy_2024_project_1-java-krivonosovti)  
+  [Ссылка на Т-Банк репозиторий.](https://github.com/central-university-dev/backend_academy_2024_project_1-java-krivonosovti)
 
-Medica LLC
-IT Specialist
-September 2022 – Present
+- **Equipment Manager (Java):** Разработка приложения для управления оборудованием с использованием Spring для создания RESTful API, Liquibase для контроля версий базы данных, и Gradle для сборки проекта. В качестве ORM использовали Hibernate, от которого впоследствии отказались. Для хранения данных применили PostgreSQL, а фронтенд был реализован на Vue. Проект был развернут на Debian, что обеспечило стабильную и производительную среду.  
+  GitHub: [Equipment Manager](https://github.com/krivonosovti/equipment_manager)
 
-- Systems Administration and Support:
-  - Managed and administered automated workstations (ARM), providing user support and troubleshooting.
-  - Configured and managed VLANs to ensure network security and segmentation.
-  - Administered servers, including performance monitoring, updates, and optimization.
+- **Hotel Reservation Prediction (Hackathon Project):** Участвовал в хакатоне, разработав модель на основе машинного обучения для предсказания отмены бронирований. Использовал ROC-AUC как метрику эффективности модели.  
+  GitHub: [Hotel Reservation Prediction](https://colab.research.google.com/drive/1czFaqTUJUGFOxHlsUnGtUNuUnKGD17qK?usp=sharing)
 
-- Development and Programming:
-  - Developed RESTful API applications using Java Spring Boot and PostgreSQL, ensuring robust and scalable solutions.
-  - Utilized database migration frameworks such as Flyway or Liquibase for seamless data transitions.
-  - Created interactive and responsive user interfaces with Vue.js.
-  - Deployed servers on Debian using Docker and Gradle to streamline and automate development processes.
+- **Discord Game Config Bot (Python, Discord bot):** Разработка Discord-бота для управления игровыми конфигурациями пользователей. Реализован механизм добавления и генерации конфигураций для различных игр, таких как CS2 и PUBG. Использовал асинхронное программирование и взаимодействие с базой данных PostgreSQL для хранения пользовательских настроек. Основные технологии: Python, Discord.py, PostgreSQL, Docker. Особенности: асинхронная обработка команд, загрузка пользовательских конфигов через вложения, автоматическая генерация шаблонов конфигов.  
+  GitHub: [Discord Game Config Bot](https://github.com/krivonosovti/DiscordBot_GameCFG)
 
-- Data Analysis and Testing:
-  - Applied Python and C++ for data analytics tasks and conducted A/B testing to optimize processes.
-  - Developed and trained LSTM neural networks for forecasting and time series analysis.
-  - Explored stability conditions in dynamic systems, control theory, and mathematical statistics.
+---
 
-- Competitions and Hackathons:
-  - Actively participated in coding contests hosted by Yandex, Tinkoff, and other leading companies, showcasing problem-solving skills.
+## Личные качества
 
-- Tools and Technologies:
-  - Proficient in version control systems using Git, including branching, merging, and repository management.
-  - Strong understanding and experience with SQL for effective data management and retrieval.
-
-
-Education
-=========
-
-Saint Petersburg State University
-Major: Applied Mathematics, Computer Science, and AI
-Third Year Student (2022 – Present)
-
-
-Skills
-======
-
-- Programming: Java, Python, C++, JavaScript (Vue.js)
-- Databases: PostgreSQL, SQL
-- DevOps Tools: Docker, Gradle
-- System Administration: Debian, VLAN
-- Development: RESTful APIs, Spring Boot
-- Analytics: A/B Testing, Excel, Stability Theory in Dynamic Systems, Lyapunov Stability.
-- Machine Learning Libraries: NumPy, PyTorch, TensorFlow, Matplotlib, Pandas.
-  - Not an expert yet, but I have a solid understanding and am continually improving my skills in these libraries.
-- Version Control: Git
-- Layout: LaTEX, bibTEX, html.
-
-Personal Qualities
-==================
-
-- Diligent and persistent in achieving goals.
-- Quick learner with enthusiasm for mastering new technologies.
-- Strong communication skills and team collaboration.
-- Driver of category "B" with a personal car.
-- Master of sports in karate.
+- Трудолюбие и упорство в достижении поставленных целей.
+- Быстрая обучаемость и энтузиазм в освоении новых технологий.
+- Хорошие коммуникативные навыки и умение работать в команде.
+- Мастер спорта по карате.
